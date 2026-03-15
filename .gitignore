@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Local tooling
+.vscode/
+.idea/
+
+# Large generated datasets and outputs
+nyc_taxi_2023/
+nyc_taxi_2023_csv/
+aggregated_outputs/
+plots/
+results/
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
